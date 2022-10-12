@@ -1,5 +1,5 @@
 # MP2_git
-University of Illinois Urbana-Champaign, CS 415: Game Development, Course Project
+**University of Illinois Urbana-Champaign, CS 415: Game Development, Course Project**
 
 A 3D Level Game implemented in Unreal Engine using Blueprint
 
